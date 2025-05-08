@@ -1,0 +1,2 @@
+/Users/araperiyan/Documents/test projects/go_tracker/android/app/.cxx/RelWithDebInfo/k146q5z4/x86/CMakeFiles/edit_cache.dir
+/Users/araperiyan/Documents/test projects/go_tracker/android/app/.cxx/RelWithDebInfo/k146q5z4/x86/CMakeFiles/rebuild_cache.dir

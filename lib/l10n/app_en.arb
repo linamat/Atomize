@@ -1,0 +1,201 @@
+{
+    "@@locale": "en",
+    "settings": "Settings",
+    "@settings": {
+        "description": "Title for the settings screen"
+    },
+    "darkMode": "Dark Mode",
+    "@darkMode": {
+        "description": "Label for dark mode option"
+    },
+    "lightMode": "Light Mode",
+    "@lightMode": {
+        "description": "Label for light mode option"
+    },
+    "primaryColor": "Primary Color",
+    "@primaryColor": {
+        "description": "Label for primary color option"
+    },
+    "language": "Language",
+    "@language": {
+        "description": "Label for language option"
+    },
+    "data": "Data",
+    "@data": {
+        "description": "Label for data section"
+    },
+    "about": "About",
+    "@about": {
+        "description": "Label for about section"
+    },
+    "resetAllData": "Reset All Data",
+    "@resetAllData": {
+        "description": "Label for reset all data option"
+    },
+    "resetAllDataConfirmation": "This will delete all your habits and progress. This action cannot be undone.",
+    "@resetAllDataConfirmation": {
+        "description": "Confirmation message for resetting all data"
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": "Label for cancel button"
+    },
+    "reset": "Reset",
+    "@reset": {
+        "description": "Label for reset button"
+    },
+    "apply": "Apply",
+    "@apply": {
+        "description": "Label for apply button"
+    },
+    "delete": "Delete",
+    "@delete": {
+        "description": "Label for delete button"
+    },
+    "appVersion": "App Version",
+    "@appVersion": {
+        "description": "Label for app version"
+    },
+    "habitTracker": "Habit Tracker",
+    "@habitTracker": {
+        "description": "Title for the habit tracker app"
+    },
+    "archivedHabits": "Archived Habits",
+    "@archivedHabits": {
+        "description": "Title for archived habits section"
+    },
+    "goal": "Goal: {days} days",
+    "@goal": {
+        "description": "Label for habit goal with days count",
+        "placeholders": {
+            "days": {
+                "type": "int"
+            }
+        }
+    },
+    "edit": "Edit",
+    "@edit": {
+        "description": "Label for edit action"
+    },
+    "archive": "Archive",
+    "@archive": {
+        "description": "Label for archive action"
+    },
+    "unarchive": "Unarchive",
+    "@unarchive": {
+        "description": "Label for unarchive action"
+    },
+    "deleteHabit": "Delete habit?",
+    "@deleteHabit": {
+        "description": "Title for delete habit confirmation dialog"
+    },
+    "deleteHabitConfirmation": "This action cannot be undone.",
+    "@deleteHabitConfirmation": {
+        "description": "Confirmation message for deleting a habit"
+    },
+    "habitDeleted": "Habit deleted",
+    "@habitDeleted": {
+        "description": "Message shown when a habit is deleted"
+    },
+    "habitArchived": "Habit archived",
+    "@habitArchived": {
+        "description": "Message shown when a habit is archived"
+    },
+    "habitUnarchived": "{name} unarchived",
+    "@habitUnarchived": {
+        "description": "Message shown when a habit is unarchived",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "allDataCleared": "All data cleared",
+    "@allDataCleared": {
+        "description": "Message shown when all data is cleared"
+    },
+    "noArchivedHabits": "No archived habits",
+    "@noArchivedHabits": {
+        "description": "Message shown when there are no archived habits"
+    },
+    "archiveDescription": "Archive old habits to review them later",
+    "@archiveDescription": {
+        "description": "Description for archive section"
+    },
+    "undo": "Undo",
+    "@undo": {
+        "description": "Label for undo action"
+    },
+    "newHabit": "New Habit",
+    "@newHabit": {
+        "description": "Title for new habit dialog"
+    },
+    "editHabit": "Edit Habit",
+    "@editHabit": {
+        "description": "Title for edit habit dialog"
+    },
+    "habitName": "Habit Name",
+    "@habitName": {
+        "description": "Label for habit name field"
+    },
+    "habitDescription": "Description (optional)",
+    "@habitDescription": {
+        "description": "Label for habit description field"
+    },
+    "habitGoal": "Goal (days)",
+    "@habitGoal": {
+        "description": "Label for habit goal field"
+    },
+    "save": "Save",
+    "@save": {
+        "description": "Label for save button"
+    },
+    "nameRequired": "Name is required",
+    "@nameRequired": {
+        "description": "Error message when habit name is empty"
+    },
+    "goalRequired": "Goal is required",
+    "@goalRequired": {
+        "description": "Error message when habit goal is empty"
+    },
+    "goalMustBePositive": "Goal must be greater than 0",
+    "@goalMustBePositive": {
+        "description": "Error message when habit goal is not positive"
+    },
+    "habitCreated": "Habit created",
+    "@habitCreated": {
+        "description": "Message shown when a habit is created"
+    },
+    "habitUpdated": "Habit updated",
+    "@habitUpdated": {
+        "description": "Message shown when a habit is updated"
+    },
+    "selectDayState": "Select Day State",
+    "@selectDayState": {
+        "description": "Title for day state selection dialog"
+    },
+    "dayStateNone": "None",
+    "@dayStateNone": {
+        "description": "Label for none day state"
+    },
+    "dayStateDone": "Done",
+    "@dayStateDone": {
+        "description": "Label for done day state"
+    },
+    "dayStateFailed": "Failed",
+    "@dayStateFailed": {
+        "description": "Label for failed day state"
+    },
+    "dayStateSkipped": "Skipped",
+    "@dayStateSkipped": {
+        "description": "Label for skipped day state"
+    },
+    "noHabitsYet": "No Habits Yet",
+    "@noHabitsYet": {
+        "description": "Title shown when there are no habits"
+    },
+    "createFirstHabit": "Tap the + button to create your first habit",
+    "@createFirstHabit": {
+        "description": "Message shown when there are no habits"
+    }
+}

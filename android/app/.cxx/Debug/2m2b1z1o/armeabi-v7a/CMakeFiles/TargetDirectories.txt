@@ -1,0 +1,2 @@
+/Users/araperiyan/Documents/test projects/go_tracker/android/app/.cxx/Debug/2m2b1z1o/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/araperiyan/Documents/test projects/go_tracker/android/app/.cxx/Debug/2m2b1z1o/armeabi-v7a/CMakeFiles/rebuild_cache.dir

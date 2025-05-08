@@ -1,0 +1,1 @@
+/Users/araperiyan/Documents/test projects/go_tracker/build/app/intermediates/cxx/RelWithDebInfo/736d504c/obj/arm64-v8a
