@@ -37,8 +37,10 @@ class App extends StatelessWidget {
     final habitController = Provider.of<HabitController>(context);
 
     if (!appState.initialized || !habitController.isInitialized) {
-      return const MaterialApp(
-        home: Scaffold(body: Center(child: CircularProgressIndicator())),
+      return MaterialApp(
+        theme: AppTheme.light(appState.primaryColor),
+        darkTheme: AppTheme.dark(appState.primaryColor),
+        home: const Scaffold(body: Center(child: CircularProgressIndicator())),
       );
     }
 

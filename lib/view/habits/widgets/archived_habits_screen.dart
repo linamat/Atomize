@@ -30,8 +30,8 @@ class ArchivedHabitsScreen extends StatelessWidget {
                 children: [
                   Icon(
                     Icons.archive_outlined,
-                    size: 15.h,
-                    color: Theme.of(context).disabledColor,
+                    size: 20.w,
+                    color: Theme.of(context).colorScheme.primary.withValues(alpha: 0.5),
                   ),
                   SizedBox(height: 2.h),
                   Text(
